@@ -1,0 +1,10 @@
+{
+  "name": "항공경영 면접 연습",
+  "short_name": "면접 연습",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#13263f",
+  "lang": "ko",
+  "description": "항공경영 면접 꼬리질문 22개 답변 연습"
+}
